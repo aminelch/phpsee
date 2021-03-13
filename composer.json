@@ -1,0 +1,19 @@
+{
+    "name": "aminelch/phpusefulstaff",
+    "description": "some useful php classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aminelch",
+            "email": "aminelch95@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhpSee\\": "src/"
+        }
+    },
+  
+    "require": {}
+}
